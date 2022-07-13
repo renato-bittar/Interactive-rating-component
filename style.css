@@ -16,6 +16,20 @@ body{
     font-family: 'Overpass', sans-serif;
 }
 
+footer > a{
+    color: white;
+}
+
+footer > a:link{
+    color:  hsl(25, 97%, 53%);
+
+}
+
+footer > a:visited{
+    color:  hsl(25, 74%, 75%);
+
+}
+
 .attribution{
     color: white;
 }
